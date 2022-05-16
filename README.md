@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![Imgur Image](***)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xDes-by&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
