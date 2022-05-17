@@ -15,9 +15,10 @@
 <hr /> 
 
 ## Connect with me:
-Telegram: @xDes_by<br/>
-G-mail: viktor3419613@gmail.com<br/>
-Discord: xDes#5076<br/>
-
+Telegram: @xDes_by <br/>
+G-mail: viktor3419613@gmail.com <br/>
+Mail : italyevil@mail.ru <br/>
+Discord: xDes#5076 <br/>
+Linkedin: www.linkedin.com/in/xdes <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xDes-by&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
