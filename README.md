@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @xDes-by
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I’m Victor 👋👋👋
+<hr />
 
-[![Imgur Image](***)
+![Imgur Image](https://imgur.com/MvCXdAS.jpg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xDes-by&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
