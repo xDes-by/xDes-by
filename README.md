@@ -3,9 +3,21 @@
 
 ![Imgur Image](https://imgur.com/MvCXdAS.jpg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xDes-by&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+## GameDev exp:
+&#8226; More than three years of developing custom games for Dota 2 <br/>
+&#8226; Everal successful projects with more than 400k subscribers
 
-<!---
-xDes-by/xDes-by is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr /> 
+
+## Web Developer exp:
+&#8226; just started learning &#128579;
+
+<hr /> 
+
+## Connect with me:
+Telegram: @xDes_by<br/>
+G-mail: viktor3419613@gmail.com<br/>
+Discord: xDes#5076<br/>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xDes-by&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
