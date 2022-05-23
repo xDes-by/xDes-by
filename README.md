@@ -21,4 +21,5 @@ Mail : italyevil@mail.ru <br/>
 Discord: xDes#5076 <br/>
 Linkedin: www.linkedin.com/in/xdes <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xDes-by&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xDes-by&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
