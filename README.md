@@ -23,7 +23,7 @@ gameplay concepts and experience balancing game mechanics.<br/>
 <hr /> 
 
 ## Web Developer exp:
-&#8226; Python, Django, REST API, HTML, CSS, JavaScript &#128579;
+&#8226; Python, Django, REST API, HTML, CSS, JavaScript &#128579; <br/>
 [IT Step Project](https://github.com/xDes-by/IT_Step_website_project)
 
 <hr /> 
