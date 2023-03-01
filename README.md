@@ -5,17 +5,17 @@
 
 ## GameDev exp:
 • Developing custom games and mods for Dota 2, using Lua, JavaScript, CSS,
-Python, Source game engine, Dota 2 Workshop Tools.
-• Creating particles, textures, and 3D model animations.
-• Creating code to control game logic, mechanics, and gameplay. 
-• Game design: drawing maps and creating characters, abilities, and items.
+Python, Source game engine, Dota 2 Workshop Tools.<br/>
+• Creating particles, textures, and 3D model animations.<br/>
+• Creating code to control game logic, mechanics, and gameplay. <br/>
+• Game design: drawing maps and creating characters, abilities, and items.<br/>
 Developing storylines, quests, creeps, and bosses. I have good understanding of
-gameplay concepts and experience balancing game mechanics.
-• Maintenance of backend and working with Panorama UI. 
-• Communicating with the community to get feedback and mod ideas.
-• Creating and testing custom games with the community. 
-• Development of documentation and instructions.
-• Experience in advertising and monetizing projects. 
+gameplay concepts and experience balancing game mechanics.<br/>
+• Maintenance of backend and working with Panorama UI. <br/>
+• Communicating with the community to get feedback and mod ideas.<br/>
+• Creating and testing custom games with the community. <br/>
+• Development of documentation and instructions.<br/>
+• Experience in advertising and monetizing projects. <br/>
 
 <hr /> 
 
