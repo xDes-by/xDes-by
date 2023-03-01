@@ -9,7 +9,7 @@ Python, Source game engine, Dota 2 Workshop Tools.<br/>
 • Creating particles, textures, and 3D model animations.<br/>
 • Creating code to control game logic, mechanics, and gameplay. <br/>
 • Game design: drawing maps and creating characters, abilities, and items.<br/>
-Developing storylines, quests, creeps, and bosses. I have good understanding of
+• Developing storylines, quests, creeps, and bosses. I have good understanding of
 gameplay concepts and experience balancing game mechanics.<br/>
 • Maintenance of backend and working with Panorama UI. <br/>
 • Communicating with the community to get feedback and mod ideas.<br/>
@@ -20,7 +20,7 @@ gameplay concepts and experience balancing game mechanics.<br/>
 <hr /> 
 
 ## Web Developer exp:
-&#8226; just started learning &#128579;
+&#8226; Python, Django, REST API, HTML, CSS, JavaScript &#128579;
 
 <hr /> 
 
