@@ -25,7 +25,8 @@ gameplay concepts and experience balancing game mechanics.<br/>
 
 ## Web Developer exp:
 &#8226; Python, Django, REST API, HTML, CSS, JavaScript &#128579; <br/>
-[IT Step Project](https://github.com/xDes-by/IT_Step_website_project)
+[IT Step Project](https://github.com/xDes-by/IT_Step_website_project)<br/>
+[My projects website](https://custom-dota.ru)
 
 <hr /> 
 
