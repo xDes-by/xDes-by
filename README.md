@@ -18,7 +18,8 @@ gameplay concepts and experience balancing game mechanics.<br/>
 • Experience in advertising and monetizing projects. <br/>
 
 [Squirrel World RPG](https://steamcommunity.com/sharedfiles/filedetails/?id=2326145404) <br/>
-[BSA REBORN](https://steamcommunity.com/sharedfiles/filedetails/?id=1571786267)
+[BSA](https://steamcommunity.com/sharedfiles/filedetails/?id=1571786267) <br/>
+[RE:BORN](https://steamcommunity.com/sharedfiles/filedetails/?id=3229783502)
 
 <hr /> 
 
